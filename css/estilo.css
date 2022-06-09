@@ -881,7 +881,7 @@ footer img {
   width: 45px;
 }
 
-@media (min-width: 300px) and (max-width: 358px) {
+@media (min-width: 300px) and (max-width: 391px) {
   .menu-header {
     position: absolute;
     right: 0;
@@ -1174,7 +1174,7 @@ footer img {
   }
 }
 
-@media (min-width: 359px) and (max-width: 457px) {
+@media (min-width: 392px) and (max-width: 457px) {
   .menu-header {
     position: absolute;
     right: 0;
@@ -1307,7 +1307,7 @@ footer img {
   }
 
   .tab1 button h1 {
-    font-size: 9px;
+    font-size: 10px;
   }
 
   select {
