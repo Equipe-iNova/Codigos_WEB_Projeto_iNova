@@ -1468,7 +1468,7 @@ footer img {
 }
 
 /* Extra small devices (portrait phones, less than 576px) */
-@media (min-width: 458px) {
+@media (min-width: 458px) and (max-width: 576px) {
   .menu-header {
     position: absolute;
     right: 0;
