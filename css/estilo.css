@@ -637,6 +637,7 @@ figure img {
   transition: all 0.7s;
   cursor: pointer;
   height: 300px;
+  object-fit: cover;
 }
 
 figure {
@@ -646,6 +647,8 @@ figure {
   border: 1px solid rgba(128, 128, 128, 0.986);
   border-radius: 15px;
 }
+
+
 
 figure img:hover {
   opacity: 0.8;
@@ -2348,6 +2351,7 @@ footer img {
   figure img {
     height: 400px;
   }
+  
 }
 
 @media (min-width: 1631px) and (max-width: 1802px) {
