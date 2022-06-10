@@ -18,8 +18,8 @@ A partir do desafio proposto no projeto interdisciplinar do curso Desenvolviment
 <span id="final">
 
 ## :clapper: Apresentação Final do Projeto :clapper:
-
-Link: https://youtu.be/zf6-aO2HCqI
+    
+Link: https://equipe-inova.github.io/Codigos_WEB_Projeto_iNova/
     
 
 → [Voltar ao topo](#topo)
